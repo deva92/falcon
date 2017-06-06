@@ -1,0 +1,11 @@
+.d-none {
+    display: none;
+}
+.skill-row {
+    display: flex;
+    justify-content: space-around;
+}
+.falcon-logo {
+    margin-top: 10px;
+    color: #fff;
+}
